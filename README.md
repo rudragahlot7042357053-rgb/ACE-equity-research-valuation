@@ -2,7 +2,7 @@
 
 Equity research and business valuation analysis of Action Construction Equipment Ltd. using financial analysis, forecasting, DCF and peer valuation.
 
-# ActionAction Construction Equipment Ltd. – Equity Research \& Business Valuation
+# Action Construction Equipment Ltd. – Equity Research \& Business Valuation
 
 ## Project Overview
 
