@@ -90,3 +90,13 @@ The DCF analysis estimated an intrinsic value of ₹624.77 per share versus the 
 
 \- Equity Research \& Business Valuation Report (PDF)
 
+
+
+\## Analysis Period
+
+
+
+\- Historical analysis: FY18–FY25
+
+\- Forecast period: FY26E–FY30E
+
